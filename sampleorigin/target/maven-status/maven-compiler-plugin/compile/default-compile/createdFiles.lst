@@ -1,0 +1,7 @@
+com\example\stage\origin\sample\Groups.class
+PipelineStages.json
+ElDefinitions.json
+datacollector-resource-bundles.json
+com\example\stage\lib\Errors.class
+com\example\stage\origin\sample\SampleDSource.class
+com\example\stage\origin\sample\SampleSource.class
